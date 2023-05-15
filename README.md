@@ -1,4 +1,4 @@
-[!MasterHead](https://s3.amazonaws.com/media.the-next-tech.com/wp-content/uploads/2020/06/19155054/How-to-become-a-Big-Data-Engineer.jpg)
+[![MasterHead](https://s3.amazonaws.com/media.the-next-tech.com/wp-content/uploads/2020/06/19155054/How-to-become-a-Big-Data-Engineer.jpg)
 <h1 align="center">Hi 👋, I'm Bhushan</h1>
 <h3 align="center">Thanks for visiting. Here's a little bit about myself...</h3>
 <img align="right" alt="coding" width=400 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWEwNDkxNmQzZWE2MTM4YzY1MzgxZGQxYTllZDc3MzAxMmRlYTQ1MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
