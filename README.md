@@ -13,7 +13,8 @@ Welcome to my GitHub! Here's a little bit about me:
 
 🚀 **Currently Exploring:**  
 - **Modern Data Stack** (dbt, Airbyte, Databricks)  
-- **Azure Cloud** (Previously worked with **AWS & GCP**)  
+- **Azure Cloud** (Previously worked with **AWS & GCP**)
+- **Snowflake** Data Cloud  
 - **Advanced Data Architecture & System Design**  
 - **Modern Data Engineering** by Darshil Parmar  
 
